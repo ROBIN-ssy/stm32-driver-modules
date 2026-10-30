@@ -1,0 +1,32 @@
+# ---- Keil 构建产物 ----
+OBJ/
+Objects/
+Listings/
+DebugConfig/
+RTE/
+*.o
+*.d
+*.crf
+*.axf
+*.dep
+*.lnp
+*.htm
+*.map
+*.lst
+*.hex
+*.bin
+*.iex
+*.sct
+*.uvguix.*
+*.uvoptx
+
+# ---- 备份 ----
+*.bak
+*.old
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
